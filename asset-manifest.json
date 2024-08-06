@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.f855e6bc.css",
-    "main.js": "/static/js/main.eabb9a51.js",
-    "static/js/156.ec7411df.chunk.js": "/static/js/156.ec7411df.chunk.js",
-    "index.html": "/index.html",
-    "main.f855e6bc.css.map": "/static/css/main.f855e6bc.css.map",
-    "main.eabb9a51.js.map": "/static/js/main.eabb9a51.js.map",
-    "156.ec7411df.chunk.js.map": "/static/js/156.ec7411df.chunk.js.map"
+    "main.css": "/cward2891.github.io/recipe-app/static/css/main.f855e6bc.css",
+    "main.js": "/cward2891.github.io/recipe-app/static/js/main.9a56fedd.js",
+    "static/js/156.ec7411df.chunk.js": "/cward2891.github.io/recipe-app/static/js/156.ec7411df.chunk.js",
+    "index.html": "/cward2891.github.io/recipe-app/index.html",
+    "main.f855e6bc.css.map": "/cward2891.github.io/recipe-app/static/css/main.f855e6bc.css.map",
+    "main.9a56fedd.js.map": "/cward2891.github.io/recipe-app/static/js/main.9a56fedd.js.map",
+    "156.ec7411df.chunk.js.map": "/cward2891.github.io/recipe-app/static/js/156.ec7411df.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.eabb9a51.js"
+    "static/js/main.9a56fedd.js"
   ]
 }
